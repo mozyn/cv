@@ -1,2 +1,1 @@
-# CV
-My first HTML Resume
+# mozyn.github.io
